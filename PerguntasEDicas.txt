@@ -1,0 +1,13 @@
+BALEIA         Cetáceo marinho
+CARREGADOR     aparelho para prover energia a uma bateria
+CELULAR        Aparelho de comunicação pessoal
+COLÍRIO        Remédio para os olhos
+FERRAMENTA     Dispositivo que fornece vantagem mecânica ao ser humano
+FIO            Cabo de energia
+FÓSFORO        Acende fogo
+IPTU           Imposto sobre imóveis urbanos
+LIVRO          Objeto com textos
+MONITOR        tela de computador
+MOUSE          para mexer no computador
+OCULOS         Ajuda a ver melhor
+SHEAKESPEARE   Escritor inglês de Hamlet
